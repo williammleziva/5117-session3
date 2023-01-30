@@ -15,9 +15,9 @@ Install new dependancies:
 
     pipenv install []
 
-Optional- Create requires.txt file with
+Optional- Create requirements.txt file with
 
-    pipenv freeze
+    pipenv requirements
 
 
 ## Enter environment and run 
